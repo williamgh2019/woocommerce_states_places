@@ -42,3 +42,6 @@ $states['KH'] = array(
   'KH24' => 'Pailin',
   'KH25' => 'Tbong Khmum<',
 );
+
+// Use this filter to handle the Provinces of Cambodia
+$states['KH'] = apply_filters('scpwoo_custom_states_kh', $states['KH']);
