@@ -7,6 +7,11 @@
  * Source: 
  * For Khmer Unicode Provinces Abbreviations short code please see
  * https://github.com/unicode-org/cldr/blob/master/common/subdivisions/en.xml
+ * 
+ * Cambodia Provincial/Municipal
+ * http://db.ncdd.gov.kh/gazetteer/view/index.castle
+ * 
+ * List of Khmer provincial name
  *
  * @author  William N <suloveoun@gmail.com> | https://borbak.com
  * @version 1.0.0
@@ -25,7 +30,7 @@ $states['KH'] = array(
   'KH7' => 'Kampot',
   'KH8' => 'Kandal',
   'KH9' => 'Koh Kong',
-  'KH10' => 'Kratié',
+  'KH10' => 'Kratie',
   'KH11' => 'Mondulkiri',
   'KH12' => 'Phnom Penh',
   'KH13' => 'Preah Vihear',
@@ -36,11 +41,11 @@ $states['KH'] = array(
   'KH18' => 'Sihanoukville',
   'KH19' => 'Stung Treng',
   'KH20' => 'Svay Rieng',
-  'KH21' => 'Takéo',
+  'KH21' => 'Takeo',
   'KH22' => 'Oddar Meanchey',
   'KH23' => 'Kep',
   'KH24' => 'Pailin',
-  'KH25' => 'Tbong Khmum<',
+  'KH25' => 'Tbong Khmum',
 );
 
 // Use this filter to handle the Provinces of Cambodia
